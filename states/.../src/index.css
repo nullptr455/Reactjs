@@ -1,0 +1,14 @@
+div{
+    background-color:gold;
+    flex: none;
+    justify-content: center;
+    justify-items: center;
+    padding: 30px;
+    font-size: x-large;
+}
+button{
+    background: burlywood;
+    margin: 10px;
+    font-size:larger;
+    
+}
